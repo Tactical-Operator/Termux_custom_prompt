@@ -10,6 +10,6 @@ You need to download a Font pack JetBrainsMono Nerd Font from https://www.nerdfo
 
 Extract the ZIP using your file manager.
 
-Locate this file inside the extracted folder
+Locate this file inside the extracted folder JetBrainsMonoNerdFontMono-Regular.ttf
 
-JetBrainsMonoNerdFontMono-Regular.ttf
+
