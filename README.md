@@ -25,7 +25,7 @@ Give the permissions it asks for, after that type ls command to see storage dire
 
 ~$ cd .. # to go to the previous directory
 
-~$ cd .. # to go to the first startinf directory i.e home 
+~$ cd .. # to go to the first starting directory i.e home 
 
 Now you need to make .termux file to contain the font pack
 
@@ -35,7 +35,7 @@ Now you need to make .termux file to contain the font pack
 
 now type the following 
 
-~$ nanao ./bashrc , then paste the thing   export PS1='\e[1;35m\e[1;32m┌──(\e[1;35m(YourNAme)\e[1;32m💀(YourNAMe)-[\w]\n\e[1;35m\e[1;34m└─\e[1;35m$\e[0m '
+~$ nano ./bashrc , then paste the thing   export PS1='\e[1;35m\e[1;32m┌──(\e[1;35m(YourNAme)\e[1;32m💀(YourNAMe)-[\w]\n\e[1;35m\e[1;34m└─\e[1;35m$\e[0m '
 
 THEN typo Ctrl O then Type Ctrl X.
 
