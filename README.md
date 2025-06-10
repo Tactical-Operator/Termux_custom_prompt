@@ -19,6 +19,7 @@ Open Your Termux App and type the first command
 ~$ termux-setup-storage
 
 Give the permissions it asks for, after that type ls command to see storage directory, then type ls to see the directories
+
 ~$ ls
 
 ![WhatsApp Image 2025-06-10 at 19 18 59_b4ad23b0](https://github.com/user-attachments/assets/7e40076d-e851-46bf-8dd8-e3afb92df405)
