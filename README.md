@@ -12,13 +12,18 @@ Extract the ZIP using your file manager.
 
 Locate this file inside the extracted folder JetBrainsMonoNerdFontMono-Regular.ttf
 
-Please follow the below steps if you are new to bash/teerminal/shell , If you already know it please follow the Commands.bash file.
+Please follow the below steps if you are new to bash/terminal/shell , If you already know it please follow the Commands.bash file.
 
 Open Your Termux App and type the first command 
 
 ~$ termux-setup-storage
 
-Give the permissions it asks for, after that type ls command to see storage directory, then type ,
+Give the permissions it asks for, after that type ls command to see storage directory, then type ls to see the directories
+~$ ls
+![WhatsApp Image 2025-06-10 at 19 18 59_b4ad23b0](https://github.com/user-attachments/assets/7e40076d-e851-46bf-8dd8-e3afb92df405)
+
+
+
 
 ~$ cd storage # to enter in that directory , then type,
 ~$ cd downloads #to enter the downloads folder
