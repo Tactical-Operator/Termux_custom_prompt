@@ -12,4 +12,17 @@ Extract the ZIP using your file manager.
 
 Locate this file inside the extracted folder JetBrainsMonoNerdFontMono-Regular.ttf
 
+Open Your Termux App and type the first command 
+
+~$ termux-setup-storage
+
+Give the permissions it asks for, after that type ls command to see storage directory, then type ,
+
+~$ cd storage # to enter in that directory , then type,
+~$ cd downloads #to enter the downloads folder
+
+~$ ls # to see the contents and find the JetBrainsMonoNerdFontMono-Regular.ttf
+
+
+
 
