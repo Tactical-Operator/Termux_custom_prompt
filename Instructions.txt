@@ -1,5 +1,5 @@
-DOWNLOAD TERMUX FROM https://github.com/termux/termux-app/releases/tag/v0.118.3 , preferred version is _universal.apk , I dont suggest the 
-play store version, you can download it from F-droid if you want.
+DOWNLOAD TERMUX FROM https://github.com/termux/termux-app/releases/tag/v0.118.3 , preferred version is _universal.apk , I dont suggest 
+the play store version, you can download it from F-droid if you want.
 
 
 
