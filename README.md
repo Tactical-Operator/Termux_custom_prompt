@@ -39,6 +39,13 @@ Give the permissions it asks for, after that type ls command to see storage dire
 
 ~$ ls # to see the contents and find the JetBrainsMonoNerdFontMono-Regular.ttf
 
+![WhatsApp Image 2025-06-10 at 19 32 22_745b558e](https://github.com/user-attachments/assets/7d3df6a9-0bdc-4401-9706-967354cad14a)
+
+
+
+
+
+
 ~$ cd .. # to go to the previous directory
 
 ~$ cd .. # to go to the first starting directory i.e home 
