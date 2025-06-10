@@ -12,6 +12,8 @@ Extract the ZIP using your file manager.
 
 Locate this file inside the extracted folder JetBrainsMonoNerdFontMono-Regular.ttf
 
+Please follow the below steps if you are new to bash/teerminal/shell , If you already know it please follow the Commands.bash file.
+
 Open Your Termux App and type the first command 
 
 ~$ termux-setup-storage
