@@ -27,7 +27,7 @@ Give the permissions it asks for, after that type ls command to see storage dire
 
 
 
-~$ cd storage # to enter in that directory 
+~$ cd storage # to enter in that directory and then type ls to see the contents
 
 ![WhatsApp Image 2025-06-10 at 19 25 22_c901b323](https://github.com/user-attachments/assets/2bf49b90-fb6b-487e-a822-805d54f14241)
 
