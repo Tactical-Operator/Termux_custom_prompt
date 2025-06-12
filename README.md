@@ -58,7 +58,7 @@ Now you need to make .termux file to contain the font pack
 
 now type the following 
 
-~$ nano ./bashrc , then paste the thing   export PS1='\e[1;35m\e[1;32m┌──(\e[1;35m(YourNAme)\e[1;32m💀(YourNAMe)-[\w]\n\e[1;35m\e[1;34m└─\e[1;35m$\e[0m '
+~$ nano ./bashrc , then paste the thing:-   export PS1='\e[1;35m\e[1;32m┌──(\e[1;35m(YourNAme)\e[1;32m💀(YourNAMe)-[\w]\n\e[1;35m\e[1;34m└─\e[1;35m$\e[0m '
 
 THEN typo Ctrl O then Type Ctrl X.
 
