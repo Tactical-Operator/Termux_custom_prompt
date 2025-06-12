@@ -62,6 +62,10 @@ now type the following
 
 THEN typo Ctrl O then Type Ctrl X.
 
+THEN TYPE
+
+~$ source ./bashrc
+
 Your prompt is changed now enjoy.........................
 
 ![WhatsApp Image 2025-06-10 at 19 34 47_21889802](https://github.com/user-attachments/assets/5fc15281-c23f-4bd3-a831-0c604f39b069)
