@@ -8,6 +8,12 @@ cd storage/downloads # check your file JetBrainsMonoNerdFontMono-Regular.ttf ,yo
 mkdir -p ~/.termux # here we will store our JetBrainsMonoNerdFontMono-Regular.ttf file.
 cp ~/storage/downloads/JetBrainsMonoNerdFontMono-Regular.ttf ~/.termux/font.ttf #copying the file to termux directory.
 
+nano ~/.bashrc #Make this file which should contain the Customized Prompt
+export PS1='\[\e[1;32m\]┌──(yourname☠️yourname)-[\w]\n\[\e[1;34m\]└─\$ \[\e[0m\]' # paste this and save it.
+
+
+
+
 
 
 
