@@ -11,6 +11,11 @@ cp ~/storage/downloads/JetBrainsMonoNerdFontMono-Regular.ttf ~/.termux/font.ttf 
 nano ~/.bashrc #Make this file which should contain the Customized Prompt
 export PS1='\[\e[1;32m\]┌──(yourname☠️yourname)-[\w]\n\[\e[1;34m\]└─\$ \[\e[0m\]' # paste this and save it.
 
+source ~/.bashrc # This successfully applies the prompt.
+
+# Now restart your app to see the changes and enjoy.
+
+
 
 
 
